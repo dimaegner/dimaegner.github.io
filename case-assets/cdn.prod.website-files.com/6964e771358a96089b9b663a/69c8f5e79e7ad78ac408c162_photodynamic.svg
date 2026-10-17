@@ -1,0 +1,19 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="63.9998" cy="64.0017" r="7.11111" fill="white"/>
+<circle cx="63.9998" cy="120.892" r="7.11111" fill="white"/>
+<circle cx="120.888" cy="63.9983" r="7.11111" transform="rotate(-90 120.888 63.9983)" fill="white"/>
+<circle cx="63.9998" cy="35.5564" r="7.11111" fill="white"/>
+<circle cx="35.5564" cy="63.9983" r="7.11111" transform="rotate(-90 35.5564 63.9983)" fill="white"/>
+<circle cx="63.9998" cy="92.4471" r="7.11111" fill="white"/>
+<circle cx="92.4451" cy="63.9983" r="7.11111" transform="rotate(-90 92.4451 63.9983)" fill="white"/>
+<circle cx="63.9998" cy="7.11111" r="7.11111" fill="white"/>
+<circle cx="7.11111" cy="63.9983" r="7.11111" transform="rotate(-90 7.11111 63.9983)" fill="white"/>
+<circle cx="104.223" cy="23.7793" r="7.11111" transform="rotate(-135 104.223 23.7793)" fill="white"/>
+<circle cx="23.7774" cy="23.7813" r="7.11111" transform="rotate(135 23.7774 23.7813)" fill="white"/>
+<circle cx="43.8887" cy="84.1074" r="7.11111" transform="rotate(-135 43.8887 84.1074)" fill="white"/>
+<circle cx="84.1094" cy="84.1094" r="7.11111" transform="rotate(135 84.1094 84.1094)" fill="white"/>
+<circle cx="84.1113" cy="43.8887" r="7.11111" transform="rotate(-135 84.1113 43.8887)" fill="white"/>
+<circle cx="43.8887" cy="43.8906" r="7.11111" transform="rotate(135 43.8887 43.8906)" fill="white"/>
+<circle cx="23.7773" cy="104.225" r="7.11111" transform="rotate(-135 23.7773 104.225)" fill="white"/>
+<circle cx="104.229" cy="104.219" r="7.11111" transform="rotate(135 104.229 104.219)" fill="white"/>
+</svg>

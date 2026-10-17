@@ -1,0 +1,23 @@
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="14" height="14" fill="#CDCDCD"/>
+<rect width="1280" height="10167" transform="translate(-212 -9530)" fill="black"/>
+<circle cx="7.00026" cy="6.97682" r="2.25807" fill="white"/>
+<ellipse cx="6.99753" cy="11.9058" rx="3.46237" ry="2.0699" fill="white"/>
+<path d="M10.4623 2.0699C10.4623 3.21307 8.91217 4.1398 6.99995 4.1398C5.08773 4.1398 3.53757 3.21307 3.53757 2.0699C3.53757 0.926725 5.08773 0 6.99995 0C8.91217 0 10.4623 0.926725 10.4623 2.0699Z" fill="url(#paint0_radial_0_1)"/>
+<path d="M11.9301 10.4622C10.7869 10.4622 9.8602 8.91204 9.8602 6.99982C9.8602 5.08761 10.7869 3.53745 11.9301 3.53745C13.0733 3.53745 14 5.08761 14 6.99982C14 8.91204 13.0733 10.4622 11.9301 10.4622Z" fill="url(#paint1_radial_0_1)"/>
+<path d="M2.0699 10.4622C0.926725 10.4622 -8.35857e-08 8.91204 0 6.99982C8.35857e-08 5.08761 0.926725 3.53745 2.0699 3.53745C3.21307 3.53745 4.1398 5.08761 4.1398 6.99982C4.1398 8.91204 3.21307 10.4622 2.0699 10.4622Z" fill="url(#paint2_radial_0_1)"/>
+<defs>
+<radialGradient id="paint0_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(6.78162 6.78168) rotate(90) scale(8.34757 11.1703)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<radialGradient id="paint1_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(6.78162 6.78168) rotate(90) scale(8.34757 11.1703)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<radialGradient id="paint2_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(6.78162 6.78168) rotate(90) scale(8.34757 11.1703)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+</defs>
+</svg>
